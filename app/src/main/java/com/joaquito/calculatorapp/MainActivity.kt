@@ -118,7 +118,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         binding.divide.setOnClickListener {
-            text = binding.inputNumber.text.toString()+"÷"
+            text = binding.inputNumber.text.toString()+"/"
             binding.inputNumber.setText(text)
             check += 1
 

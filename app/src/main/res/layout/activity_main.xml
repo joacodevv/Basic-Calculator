@@ -20,7 +20,7 @@
             android:text=""
             android:textColor="@color/white"
             android:clickable="false"
-            android:focusable="true"
+            android:focusable="false"
             android:scrollHorizontally="true"
             android:singleLine="true"
             android:cursorVisible="true"
