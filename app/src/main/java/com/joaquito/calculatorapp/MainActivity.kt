@@ -12,7 +12,7 @@ import javax.script.ScriptException
 
 class MainActivity : AppCompatActivity() {
 
-    var check = 0
+    private var check = 0
     private lateinit var binding: ActivityMainBinding
 
     override fun onCreate(savedInstanceState: Bundle?) {
